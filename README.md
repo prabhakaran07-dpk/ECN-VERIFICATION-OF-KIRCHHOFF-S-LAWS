@@ -8,11 +8,11 @@
 
 *1.	Regulated Power supply ( RPS)	(0-30 V)*
    
-*2.	Voltmeter	(0-30 V) MC	3*
+*2.	Voltmeter	(0-30 V) MC	--- 3*
    
-*3.	Ammeter	( 0 - 10 mA) MC	3*
+*3.	Ammeter	( 0 - 10 mA) MC ---	3*
    
-*4.	Resistors	1 KΩ	3*
+*4.	Resistors	1 KΩ --- 3*
 
 *5.	Bread board	---	1*
 
